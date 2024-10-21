@@ -1,0 +1,13 @@
+body{background-image: url(download.jpeg);
+    height: 70vh;
+    background-size: cover;
+    background-position:center ;
+    margin: no-margin;
+}
+.booking-form-box
+{background-image: url(images.jpeg);
+max-width: 500px;
+height: 450px;;
+border: 4px solid black;
+margin: 20% auto 0;
+}
